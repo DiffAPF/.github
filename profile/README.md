@@ -26,3 +26,16 @@ This implementation can be employed within any audio system containing filters w
 We demonstrate its training efficiency and expressive capabilities for modelling real-world dynamic audio systems on a phaser, time-varying subtractive synthesiser, and feed-forward compressor.
 We make our code available and provide the trained audio effect and synth models in a VST plugin.
 </p>
+
+<hr>
+<h2>Citation</h2>
+
+Accepted to the 27th International Conference on Digital Audio Effects (DAFx24), Guildford, United Kingdom, 3 - 7 September 2024.
+
+<pre><code>@inproceedings{ycy2024diffapf,
+    title={Differentiable All-pole Filters for Time-varying Audio Systems},
+    author={Chin-Yun Yu and Christopher Mitcheltree and Alistair Carson and Stefan Bilbao and Joshua D. Reiss and György Fazekas},
+    booktitle={International Conference on Digital Audio Effects (DAFx)},
+    year={2024}
+}
+</code></pre>
